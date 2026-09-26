@@ -1,0 +1,10 @@
+# 本仓库只保留作品集；其余文件仅存在于本地磁盘，不入库
+/*
+!/作品集/
+!/README.md
+!/.gitignore
+
+# 作品集内也不入库的杂物
+.mimosa/
+Thumbs.db
+desktop.ini
